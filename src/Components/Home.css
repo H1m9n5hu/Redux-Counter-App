@@ -1,0 +1,20 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.decrementBtn {
+    margin-right: 20px;
+}
+
+button {
+    border: none;
+    width: 100px;
+    font-size: 40px;
+    padding: 2px;
+    border-radius: 7px;
+    font-weight: bolder;
+    background-color: gray;
+    cursor: pointer;
+}
